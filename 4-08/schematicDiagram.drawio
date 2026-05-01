@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="oby_NsngL4bM8tBB5w6z" name="Page-1">
-        <mxGraphModel dx="1055" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="624" dy="1525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -16,7 +16,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="9" value="220&amp;nbsp;Ω" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="450" y="175" width="50" height="30" as="geometry"/>
+                    <mxGeometry x="449" y="139" width="50" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="By Elliott Roach&lt;div&gt;Made May 2026&amp;nbsp;&lt;/div&gt;&lt;div&gt;4-08&lt;/div&gt;&lt;div&gt;AND gate&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A B | Output&lt;/div&gt;&lt;div&gt;0 0 | 0&lt;/div&gt;&lt;div&gt;0 1 | 0&lt;/div&gt;&lt;div&gt;1 0 | 0&lt;/div&gt;&lt;div&gt;1 1 | 1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="1" vertex="1">
                     <mxGeometry x="130" y="-243" width="120" height="150" as="geometry"/>
